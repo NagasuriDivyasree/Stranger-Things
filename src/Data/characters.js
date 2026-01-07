@@ -1,0 +1,92 @@
+export const characters = [
+  {
+    id: 1,
+    name: "Eleven",
+    power: "Telekinesis",
+    image: "/images/eleven.jpg",
+  },
+  {
+    id: 2,
+    name: "Mike Wheeler",
+    power: "Leadership & Loyalty",
+    image: "/images/Mike.jpg",
+  },
+  {
+    id: 3,
+    name: "Dustin Henderson",
+    power: "Intelligence & Humor",
+    image: "/images/dustin.jpg",
+  },
+  {
+    id: 4,
+    name: "Lucas Sinclair",
+    power: "Bravery & Strategy",
+    image: "/images/lucas.jpg",
+  },
+  {
+    id: 5,
+    name: "Max Mayfield",
+    power: "Fearlessness & Skate Skills",
+    image: "/images/max.jpg",
+  },
+  {
+    id: 6,
+    name: "Will Byers",
+    power: "Connection to the Upside Down",
+    image: "/images/will.jpg",
+  },
+  {
+    id: 7,
+    name: "Jim Hopper",
+    power: "Strength & Protection",
+    image: "/images/jim.jpg",
+  },
+  {
+    id: 8,
+    name: "Joyce Byers",
+    power: "Unbreakable Determination",
+    image: "/images/joyce.jpg",
+  },
+  {
+    id: 9,
+    name: "Steve Harrington",
+    power: "Combat Skills & Babysitting",
+    image: "/images/steve.jpg",
+  },
+  {
+    id: 10,
+    name: "Nancy Wheeler",
+    power: "Investigation & Accuracy",
+    image: "/images/nancy.jpg",
+  },
+  {
+    id: 11,
+    name: "Robin Buckley",
+    power: "Languages & Problem Solving",
+    image: "/images/robin.jpg",
+  },
+  {
+    id: 12,
+    name: "Eddie Munson",
+    power: "Courage & Music",
+    image: "/images/eddie.jpg",
+  },
+  {
+    id: 13,
+    name: "Billy Hargrove",
+    power: "Raw Strength",
+    image: "/images/billy.jpg",
+  },
+  {
+    id: 14,
+    name: "Vecna",
+    power: "Mind Control & Fear",
+    image: "/images/vecna.jpg",
+  },
+  {
+    id: 15,
+    name: "The Mind Flayer",
+    power: "Dark Control & Possession",
+    image: "/images/mindflayer.jpg",
+  },
+];
